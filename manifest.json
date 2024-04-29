@@ -1,0 +1,10 @@
+{
+  "id": "lean-mode",
+  "name": "Lean Mode",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.12",
+  "description": "Integrates the Lean programming language and theorem prover into Obsidian.",
+  "author": "Ara Adkins",
+  "authorUrl": "https://github.com/iamrecursion",
+  "isDesktopOnly": false
+}
